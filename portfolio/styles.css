@@ -1,0 +1,55 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50rem;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: lightblue;
+    font-family: "Helvetica Neue", serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+h2 {
+    padding: 0 15rem;
+}
+
+h3 {text-align: center}
+
+.image p{
+    font-weight: bold;
+    font-size: 1.15em;
+    width: 50rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.header {
+    margin: 50px;
+}
+
+.content {
+    padding: 0 20rem;
+}
+
+.hifimobile img{
+    width: 20rem;
+}
+
+.hifitablet img{
+    width: 35rem;
+}
+
+.hifidesktop img{
+    width: 60rem;
+}
