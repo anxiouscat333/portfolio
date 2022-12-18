@@ -1,0 +1,105 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50rem;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+h2 {
+    padding: 0 15rem;
+}
+
+h3 {text-align: center}
+
+.image p{
+    font-weight: bold;
+    font-size: 1.15em;
+    width: 50rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.header {
+    margin: 50px;
+}
+
+.content {
+    padding: 0 20rem;
+}
+
+.hifimobile img{
+    width: 20rem;
+}
+
+.hifitablet img{
+    width: 35rem;
+}
+
+.hifidesktop img{
+    width: 60rem;
+}
+.nav a {
+    color: black;
+}
+
+.nav a:hover {
+
+    text-decoration: underline black;
+    color: black;
+}
+
+.bg-lilac {
+    background-color: lavender;
+}
+
+.bg-lavenderblush {
+    background-color: lavenderblush;
+}
+
+.bg-lightblue {
+    background-color: lightblue;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.tech .card {
+    background-color: lightblue;
+    border: none;
+
+}
+
+.navbar.tech {
+    background-color: lightblue;
+}
+
+.art .card {
+    background-color: lavender;
+    border: none;
+}
+
+.art img {
+    width: 300px;
+    height: auto;
+}
+
+.index {
+    background-color: white;
+}
+
+.about img {
+    width: 300px;
+    height: 300px;
+}
